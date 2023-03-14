@@ -10,4 +10,4 @@ Sample website with plenty of files for demos and training
 
 ## Additional Info
 
-copyright blah blah blah blah
+copyright blah blah blah blah more text blah rebasing blah
